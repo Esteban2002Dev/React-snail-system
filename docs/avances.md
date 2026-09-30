@@ -12,3 +12,4 @@
 - Se creo la estructura inicial de documentacion en la carpeta `docs`.
 - Se registro el listado de dependencias instaladas y su proposito.
 - Se configuro la ruta inicial para mostrar la pantalla de inicio de sesion.
+- Se documento el uso responsable de inteligencia artificial en el proyecto.
